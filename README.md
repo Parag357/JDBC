@@ -1,3 +1,3 @@
 
-# A CLI based banking management system with Oracle DataBase as the backend. 
+# A CLI - based banking management system with Oracle DataBase as the backend. 
 
