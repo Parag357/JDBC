@@ -1,3 +1,3 @@
 
-# a command line interface for banking management system using jdbc. All the data is stored on Oracle server" 
+# A CLI based banking management system with Oracle DataBase as the backend. 
 
